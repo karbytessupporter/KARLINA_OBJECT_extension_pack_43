@@ -94,7 +94,7 @@ karbytes2025_16: // folder contains exactly 146 files (approximately 15927.04 me
 
     - zip_file_27: KARBYTES_BRAND_IMAGES_2021-main.zip // 10.2 megabytes
 
-    - zip_file_28: KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 617.7 kilobytes
+    - zip_file_28: KARBYTES_FOR_LIFE_BLOG-main_[undefined_day].zip // 617.8 kilobytes
 
     - zip_file_29: KARBYTES_JOURNAL_2022_PART_0-main.zip // 32.5 megabytes
 
