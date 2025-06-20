@@ -1,0 +1,23 @@
+/**
+ * file: journal_karbytes_19june2025_p0.txt
+ * type: plain-text
+ * date: 19_JUNE_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Between the points in karbytes' lifespan labeled 11:59PM Pacific Standard Time on 18_JUNE_2025 and 11:59PM Pacific Standard Time on 19_JUNE_2025, karbytes burned three M_DISCs each with the entirety of karbytes. A photographic image of those discs (before they were burned with data and after they were labeled with industrial-grade Sharpie pen ink "karbytes20JUNE2025") is available at the following Uniform Resource Locator:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_43/main/preliminary_mdisc_backups_of_karbytes_as_of_12am_pacific_standard_time_on_20june2025.jpg
+
+A relatively precise definition as to what constitutes karbytes is available at the following Uniform Resource Locator:
+
+https://karbytesforlifeblog.wordpress.com/about_karbytes/
+
+Note that each of the three discs mentioned in this plain-text journal entry have a total data storage capacity of 25 gigabytes (and those discs are marketed as being able to retain their structural integrity for up to one thousand Earth years (which is approximately 365 Earth days according to karbytes' frame of reference as of the time in which those discs were burned)). 
+
+karbytes plans to keep adding new content to the version of karbytes named karbytes2025_16 after 11:59PM Pacific Standard Time on 19_JUNE_2025 and before 11:59PM Pacific Standard Time on 31_DECEMBER_2025. For more information about karbytes' plans with respect to the finalization of karbytes2025_16, visit the following two web pages:
+
+https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2025_16/
+
+https://karbytesforlifeblog.wordpress.com/preparing_to_make_mdisc_set_on_19june2025/
